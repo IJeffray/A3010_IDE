@@ -86,6 +86,18 @@ Variation3=Designator=J3|UniqueId=\OZRVVEPO|Kind=1|AlternatePart=
 Variation4=Designator=J4|UniqueId=\XMKWPGKT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[Parameter1]
+Name=Sch_RevNo
+Value=1
+
+[Parameter2]
+Name=Sch_ReleaseDate
+Value=3/11/21
+
+[Parameter3]
+Name=Project_TItle
+Value=A3010_IDE
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
